@@ -6,14 +6,14 @@ so you play alongside everyone else.
 
 This repository holds the release builds. The apps check its releases to update themselves.
 
-**Latest version: [0.2.1](https://github.com/Tweebbo/gopenguin-consoles/releases/tag/v0.2.1)** · [What's new](https://gopenguin.lol/changelog/#update-consoles-0.2.1)
+**Latest version: [0.2.2](https://github.com/Tweebbo/gopenguin-consoles/releases/tag/v0.2.2)** · [What's new](https://gopenguin.lol/changelog/#update-consoles-0.2.2)
 
 ## Download
 
 | Platform | File | Size | Scan to download |
 | --- | --- | --- | --- |
-| Android 5.0 or later | [gopenguin-0.2.1.apk](https://github.com/Tweebbo/gopenguin-consoles/releases/download/v0.2.1/gopenguin-0.2.1.apk) | 206 MB | <img src="qr/android.svg" width="140" alt="QR code for the Android APK"> |
-| Nintendo Switch (Homebrew Menu) | [gopenguin-0.2.1.nro](https://github.com/Tweebbo/gopenguin-consoles/releases/download/v0.2.1/gopenguin-0.2.1.nro) | 224 MB | <img src="qr/switch.svg" width="140" alt="QR code for the Nintendo Switch NRO"> |
+| Android 5.0 or later | [gopenguin-0.2.2.apk](https://github.com/Tweebbo/gopenguin-consoles/releases/download/v0.2.2/gopenguin-0.2.2.apk) | 206 MB | <img src="qr/android.svg" width="140" alt="QR code for the Android APK"> |
+| Nintendo Switch (Homebrew Menu) | [gopenguin-0.2.2.nro](https://github.com/Tweebbo/gopenguin-consoles/releases/download/v0.2.2/gopenguin-0.2.2.nro) | 224 MB | <img src="qr/switch.svg" width="140" alt="QR code for the Nintendo Switch NRO"> |
 | All files and checksums | [Latest release](https://github.com/Tweebbo/gopenguin-consoles/releases/latest) | | <img src="qr/latest.svg" width="140" alt="QR code for the latest release page"> |
 
 ## Install
@@ -26,7 +26,7 @@ This repository holds the release builds. The apps check its releases to update 
 
 **Nintendo Switch**
 
-1. Copy `gopenguin-0.2.1.nro` to the `switch` folder on your microSD card.
+1. Copy `gopenguin-0.2.2.nro` to the `switch` folder on your microSD card.
 2. Open the Homebrew Menu and start GoPenguin.
 3. Docked, use the controller. Handheld, you can also use the touch screen.
 
@@ -40,9 +40,18 @@ checked against its size and SHA-256 checksum first. You can also download any v
 
 - Walk the island's rooms with the interface of the mobile app.
 - Chat with an in-game keyboard.
-- Play Pizzatron, Bean Counters and Ice Fishing for coins.
+- Play Pizzatron (Pizza Parlor), Bean Counters (Coffee Shop) and Ice Fishing (the Gone Fishing door in the Ski Lodge) for coins.
 - Change clothes from the inventory on your penguin card.
 - Become a member: scan a QR code on Nintendo Switch, or pay in your browser on Android.
+
+## Screenshots
+
+Nintendo Switch build, docked, captured in an emulator.
+
+| | |
+| --- | --- |
+| ![Island map](screenshots/map.jpg) | ![Dock](screenshots/dock.jpg) |
+| ![Ski Lodge, Gone Fishing door](screenshots/ski-lodge.jpg) | ![Ice Fishing](screenshots/ice-fishing.jpg) |
 
 The full list of changes is in [CHANGELOG.md](CHANGELOG.md) and on the
 [GoPenguin changelog](https://gopenguin.lol/changelog/).
