@@ -1,0 +1,17 @@
+# Changelog
+
+## 0.2.1 (2026-11-09)
+
+First public release for Nintendo Switch and Android.
+
+- New: a native GoPenguin app with the mobile app interface, on the same island as PC, mobile and Nintendo 3DS players.
+- New: chat without leaving the room, with an in-game keyboard on both platforms.
+- New: Ice Fishing at the Dock, with the original mobile art and coin payout. Pizzatron is at the Pizza Parlor and Bean Counters at the Coffee Shop.
+- New: inventory and clothing panel on the penguin card.
+- New: membership checkout with a QR code on Nintendo Switch and in the browser on Android.
+- New: Nintendo Switch plays docked with controller prompts and handheld with touch controls. Android uses touch controls.
+- New: the app checks for updates when it starts and verifies the size and SHA-256 checksum of each download before installing it.
+- Fixed: Pizzatron sauce stays inside the pizza base, and customers stand on the counter line.
+- Fixed: rooms no longer show missing patches around animated objects.
+
+Downloads: [v0.2.1](https://github.com/Tweebbo/gopenguin-consoles/releases/tag/v0.2.1)
